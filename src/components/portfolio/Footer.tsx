@@ -53,17 +53,7 @@ export const Footer = () => {
             <p className="text-text-secondary">
               © {currentYear} Sagarteja Cherukuri. All rights reserved.
             </p>
-            <p className="flex items-center justify-center text-sm text-text-tertiary">
-              Built with
-              <motion.span
-                className="mx-1"
-                animate={{ scale: [1, 1.2, 1] }}
-                transition={{ duration: 1, repeat: Infinity, repeatType: "loop" }}
-              >
-                <Heart className="w-4 h-4 text-red-500 fill-current" />
-              </motion.span>
-              using React, TypeScript & Framer Motion
-            </p>
+           
           </div>
         </motion.div>
       </div>
