@@ -79,12 +79,12 @@ export const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com/sagarteja"
+      href: "https://github.com/sagarteja30"
     },
     {
       icon: ExternalLink,
       label: "Portfolio",
-      href: "https://sagarteja.dev"
+      href: "https://sagartejacherukuri.vercel.app/"
     }
   ];
 
